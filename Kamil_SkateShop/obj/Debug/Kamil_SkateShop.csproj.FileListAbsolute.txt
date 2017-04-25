@@ -1,0 +1,48 @@
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.csprojResolveAssemblyReference.cache
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddEmployee.g.cs
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddInventory.g.cs
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddProduct.g.cs
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddPromotions.g.cs
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddVendor.g.cs
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\MainWindow.g.cs
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\App.g.cs
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop_MarkupCompile.cache
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop_MarkupCompile.lref
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\bin\Debug\Kamil_SkateShop.exe.config
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\bin\Debug\Kamil_SkateShop.exe
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\bin\Debug\Kamil_SkateShop.pdb
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddEmployee.baml
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddInventory.baml
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddProduct.baml
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddPromotions.baml
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddVendor.baml
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\MainWindow.baml
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.g.resources
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.Properties.Resources.resources
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.csproj.GenerateResource.Cache
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.exe
+c:\users\kamil kula\documents\visual studio 2017\Projects\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.pdb
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\bin\Debug\Kamil_SkateShop.exe.config
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.exe
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.pdb
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\bin\Debug\Kamil_SkateShop.exe
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\bin\Debug\Kamil_SkateShop.pdb
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.csprojResolveAssemblyReference.cache
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddEmployee.g.cs
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddInventory.g.cs
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddProduct.g.cs
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddVendor.g.cs
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\MainWindow.g.cs
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\App.g.cs
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop_MarkupCompile.cache
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop_MarkupCompile.lref
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddEmployee.baml
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddInventory.baml
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddProduct.baml
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\AddVendor.baml
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\MainWindow.baml
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.g.resources
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.Properties.Resources.resources
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\Kamil_SkateShop.csproj.GenerateResource.Cache
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\NewPromotion.g.cs
+C:\Users\AWOLF18\Downloads\Kamil_SkateShop\Kamil_SkateShop\Kamil_SkateShop\obj\Debug\NewPromotion.baml

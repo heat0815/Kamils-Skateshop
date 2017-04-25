@@ -1,0 +1,23 @@
+﻿<Window x:Class="Kamil_SkateShop.AddProduct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kamil_SkateShop"
+        mc:Ignorable="d"
+        Title="AddProduct" Height="300" Width="300">
+    <Grid>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="22,63,0,0" VerticalAlignment="Top"/>
+        <Label Content="Brand ID" HorizontalAlignment="Left" Margin="22,141,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.22,1.721"/>
+        <Label Content="Product ID" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,22,0,0"/>
+        <Label x:Name="txtOnHand" Content="On Hand" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,184,0,0"/>
+        <Label Content="Price" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,102,0,0"/>
+        <TextBox x:Name="txtProductID" HorizontalAlignment="Left" Height="23" Margin="136,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="136,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Height="23" Margin="136,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtBrandID" HorizontalAlignment="Left" Height="23" Margin="136,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtOnHand1" HorizontalAlignment="Left" Height="23" Margin="136,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="save" Content="Save" HorizontalAlignment="Left" Margin="100,230,0,0" VerticalAlignment="Top" Width="75" Click="save_Click"/>
+
+    </Grid>
+</Window>

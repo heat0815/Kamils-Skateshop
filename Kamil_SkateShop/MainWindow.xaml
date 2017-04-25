@@ -1,0 +1,22 @@
+﻿<Window x:Class="Kamil_SkateShop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kamil_SkateShop"
+        mc:Ignorable="d"
+        Title="Kamils SkateShop" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Add_Inventory" Content="Add Inventory&#xD;&#xA;" HorizontalAlignment="Left" Margin="381,72,0,0" VerticalAlignment="Top" Width="115" Height="23" Click="Button_Click_1"/>
+        <Button Content="Add Vendor" HorizontalAlignment="Left" Margin="381,130,0,0" VerticalAlignment="Top" Width="115" Height="27" Click="Button_Click_2"/>
+        <Button Content="Add Product" HorizontalAlignment="Left" Margin="381,193,0,0" VerticalAlignment="Top" Width="115" Click="Button_Click_3"/>
+        <Button Content="Add Employee&#xD;&#xA;" HorizontalAlignment="Left" Margin="383,244,0,0" VerticalAlignment="Top" Width="113" Click="Button_Click_4" Height="29"/>
+        <Button Content="Add Promotion" HorizontalAlignment="Left" Margin="383,20,0,0" VerticalAlignment="Top" Width="113" Click="Button_Click_5"/>
+
+    </Grid>
+</Window>
