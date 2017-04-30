@@ -7,17 +7,17 @@
         mc:Ignorable="d"
         Title="AddVendor" Height="300" Width="300">
     <Grid>
-        <Button Content="Save&#xD;&#xA;" HorizontalAlignment="Left" Margin="107,216,0,0" VerticalAlignment="Top" Width="74" Height="23"/>
+        <Button Content="Save&#xD;&#xA;" HorizontalAlignment="Left" Margin="107,216,0,0" VerticalAlignment="Top" Width="74" Height="23" Click="Button_Click"/>
         <Label Content="Vendor ID" HorizontalAlignment="Left" Margin="48,32,0,0" VerticalAlignment="Top"/>
         <Label Content="Company&#xD;&#xA;" HorizontalAlignment="Left" Margin="48,63,0,0" VerticalAlignment="Top"/>
         <Label Content="Contact" HorizontalAlignment="Left" Margin="48,94,0,0" VerticalAlignment="Top"/>
         <Label Content="Phone&#xD;&#xA;" HorizontalAlignment="Left" Margin="48,157,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.023,0.203"/>
         <Label Content="Email" HorizontalAlignment="Left" Margin="48,129,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="132,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="132,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="132,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="132,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="132,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="VendID" HorizontalAlignment="Left" Height="23" Margin="132,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Comp" HorizontalAlignment="Left" Height="23" Margin="132,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="contact" HorizontalAlignment="Left" Height="23" Margin="132,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="email" HorizontalAlignment="Left" Height="23" Margin="132,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="phone" HorizontalAlignment="Left" Height="23" Margin="132,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>

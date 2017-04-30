@@ -23,5 +23,27 @@ namespace Kamil_SkateShop
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            int retval = 0;
+
+            AppCompute appcomp = new AppCompute();
+
+            string[] strinput = new string[5];
+            int nbrinput = 0;
+
+            strinput[0] = VendID.Text;
+            strinput[1] = Comp.Text;
+            strinput[2] = contact.Text;
+            strinput[3] = email.Text;
+            strinput[4] = phone.Text;
+
+
+
+            nbrinput = 5;
+
+            retval = appcomp.showData(strinput, nbrinput);
+        }
     }
 }
